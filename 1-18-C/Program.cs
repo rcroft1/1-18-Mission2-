@@ -22,7 +22,7 @@ namespace _1_18_C
 
             //writing to the user and getting an input for number of rolls
             Console.WriteLine("Welcome to the dice throwing simulator!");
-            Console.WriteLine("\n" + "How many dice rolls would you like to simulate ? ");
+            Console.WriteLine("\n" + "How many dice rolls would you like to simulate? ");
 
             numRolls = Convert.ToInt32(Console.ReadLine());
 
